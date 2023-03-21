@@ -18,6 +18,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^2.51.5"
+		"daisyui": "^2.51.5",
+		"three": "^0.150.1"
 	}
 }
