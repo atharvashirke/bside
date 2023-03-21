@@ -1,0 +1,1 @@
+<h1>Live event coverage placeholder page.</h1>

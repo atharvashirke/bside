@@ -1,0 +1,1 @@
+<h1>News placeholder page.</h1>

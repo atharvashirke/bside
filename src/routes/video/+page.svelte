@@ -1,0 +1,1 @@
+<h1>Video placeholder page</h1>

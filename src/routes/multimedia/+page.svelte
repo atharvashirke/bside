@@ -1,0 +1,1 @@
+<h1>Multimedia placeholder page</h1>

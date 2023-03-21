@@ -1,0 +1,1 @@
+<h1>Reviews placeholder page</h1>

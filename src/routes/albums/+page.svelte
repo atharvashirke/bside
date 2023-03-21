@@ -1,0 +1,1 @@
+<h1>Album Review Page placeholder</h1>
