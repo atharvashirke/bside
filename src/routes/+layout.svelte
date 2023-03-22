@@ -47,9 +47,20 @@
 
 <slot></slot>
 
+<footer class="footer footer-right p-4 text-base-content">
+    <div>
+        <p>[ Made with &lt;3 by <a class="link-hover link-accent" href="http://www.atharvashirke.com">Atharva Shirke</a> ]</p>
+    </div>
+</footer>
+
 <style>
     .navbar {
         position: fixed;
         top: 0;
+    }
+    footer {
+        position: fixed;
+        bottom: 0;
+        color: white;
     }
 </style>
