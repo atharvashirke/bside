@@ -19,6 +19,7 @@
 	"type": "module",
 	"dependencies": {
 		"daisyui": "^2.51.5",
+		"lil-gui": "^0.18.1",
 		"three": "^0.150.1"
 	}
 }
