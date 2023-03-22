@@ -46,3 +46,10 @@
 </div>
 
 <slot></slot>
+
+<style>
+    .navbar {
+        position: fixed;
+        top: 0;
+    }
+</style>
